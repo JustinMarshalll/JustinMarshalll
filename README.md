@@ -1,18 +1,11 @@
-## Hi, I'm Justin Marshall 👋
+### Hi, I'm Justin
 
-MSc Mathematical Statistics student at Nelson Mandela University and an aspiring quantitative analyst. I work at the intersection of statistics, machine learning and real-world problem solving.
+I'm an Honours student in Mathematical Statistics at Nelson Mandela University, starting my Masters in 2027. I did my BSc in Computer Science and Statistics before this.
 
-### 🔬 What I'm working on
-My Honours and Masters research applies deep learning to renewable energy. I build convolutional neural networks (CNNs) in PyTorch to detect and classify faults in photovoltaic (solar) panels from thermal and optical imaging, using transfer learning and k-fold cross-validation. The work is carried out under an NRF-funded research programme.
+Most of my time right now goes into my research: training convolutional neural networks in PyTorch to pick up faults in solar panels from thermal and optical images. It's part of an NRF-funded project in the Statistics department.
 
-### 🎓 Background
-BSc in Computer Science and Statistics, Nelson Mandela University (74% average, 17 distinctions). Currently completing BSc Honours in Mathematical Statistics (95% in Multivariate Statistics). Part-time lecturer in Introductory Econometrics to a class of 348 students. Member of the South African Statistical Association (SASA) and a conference presenter.
+I also lecture first-year econometrics to a class of 348 students, which taught me that explaining a model clearly is harder than building one.
 
-### 🧰 Tools and skills
-Python, R, PyTorch, Statistical Modelling, Machine Learning, Data Analysis
+I mostly work in Python and R. I'm into quant finance and data science, and I'm hoping to end up in Cape Town.
 
-### 🎯 Focus
-Quantitative finance, asset management and data science. Based in Gqeberha, South Africa.
-
-### 📫 Connect
 LinkedIn: https://www.linkedin.com/in/justin-marshall-052a76373
